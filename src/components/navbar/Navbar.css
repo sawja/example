@@ -1,0 +1,10 @@
+.component-navbar {
+    background: #bbb;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.nav-list {
+    list-style: none;
+}
